@@ -4,4 +4,4 @@
 
 > 网站框架[HEXO](https://hexo.io/zh-cn/)，网站主题[Butterfly](https://butterfly.js.org/)
 
-> 博客地址： https://qingyi1220.cn
+> 博客地址： https://www.qingyi1220.cn
