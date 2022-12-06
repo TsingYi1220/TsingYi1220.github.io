@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.qingyi1220.cn/posts/61402.html</loc>
+    <loc>https://www.qingyi1220.cn/gallery/cover/index.html</loc>
     
     <lastmod>2022-12-06</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://www.qingyi1220.cn/emoji/emoji.json</loc>
+    <loc>https://www.qingyi1220.cn/posts/61402.html</loc>
     
     <lastmod>2022-12-06</lastmod>
     
@@ -66,15 +66,6 @@
   
   <url>
     <loc>https://www.qingyi1220.cn/gallery/anime-S/index.html</loc>
-    
-    <lastmod>2022-12-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.qingyi1220.cn/gallery/cover/index.html</loc>
     
     <lastmod>2022-12-04</lastmod>
     
@@ -268,14 +259,14 @@
   </url>
   
   <url>
-    <loc>https://www.qingyi1220.cn/tags/Hexo%E4%BC%98%E5%8C%96/</loc>
+    <loc>https://www.qingyi1220.cn/tags/Butterfly%E7%BE%8E%E5%8C%96/</loc>
     <lastmod>2022-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.qingyi1220.cn/tags/Butterfly%E7%BE%8E%E5%8C%96/</loc>
+    <loc>https://www.qingyi1220.cn/tags/Hexo%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2022-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
